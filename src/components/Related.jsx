@@ -1,6 +1,6 @@
 const Related = () => {
   return (
-    <div>
+    <div className="related">
       <h4>Related</h4>
     </div>
   );

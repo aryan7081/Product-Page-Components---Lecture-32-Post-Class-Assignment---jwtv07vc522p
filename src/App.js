@@ -6,12 +6,14 @@ import Related from "./components/Related";
 
 const App = () => {
   return (
+    <div className="App">
     <h3>Headphones : The best one out there</h3>
     <ProductDetails />
     <ProductDescription />
     <div class="additional">
       <Related />
       <Ratings />
+    </div>
     </div>
   );
 };
