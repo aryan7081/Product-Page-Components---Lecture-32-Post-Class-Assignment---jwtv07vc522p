@@ -1,5 +1,6 @@
 const ProductDescription = () => {
   return (
+    <div className="product-description">
     <p>
       Lorem ipsum dolor, sit amet consectetur adipisicing elit. Hic alias
       eligendi unde totam nostrum, nobis veritatis minima dolore architecto,
@@ -12,6 +13,7 @@ const ProductDescription = () => {
       suscipit tempore molestiae facilis! Error, optio perferendis dolorem
       quas repellat aut.
     </p>
+    </div>
   );
 };
 
